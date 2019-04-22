@@ -1,1 +1,3 @@
 print("Hello, WWWorld!");
+
+print("Hello!");
